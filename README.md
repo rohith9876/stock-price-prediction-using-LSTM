@@ -1,1 +1,2 @@
 # stock-price-prediction-using-LSTM
+In this project i used LSTM (Long Short-Term Memory) for stock price prediction. LSTM is a type of recurrent neural network (RNN) that is widely used for sequence modeling and has shown great success in time-series forecasting. Through this project, I was able to apply LSTM to historical stock price data, and train the model to predict future prices with high accuracy. This approach has enormous potential to benefit the finance industry and help investors make informed decisions.
